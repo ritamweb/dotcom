@@ -1,4 +1,4 @@
-This is for portolio purposes only.
+This is for portfolio purposes only.
 
 Thank you html5up for this website template.
 
